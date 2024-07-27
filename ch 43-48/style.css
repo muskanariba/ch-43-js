@@ -1,0 +1,18 @@
+.btn{
+    font-size: 30px;
+}
+#counter{
+    font-size: 50px;
+}
+.click{
+    font-size: 30px;
+}
+.btns{
+    background-color: red;
+    border: red;
+
+}
+.btns:hover{
+    color: aliceblue;
+    cursor: pointer;
+}
